@@ -4,6 +4,7 @@ title: Creating a post
 description: How to create a post with Bulma Clean Theme
 date: 2025-02-03 11:00:07
 banner: /assets/images/banners/DFG-RU-SOS-light.webp
+top: 1
 ---
 
 
